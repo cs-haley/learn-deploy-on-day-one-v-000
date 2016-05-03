@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#camille-haley-cover {
+  background-image: url("../assets/img/camille-haley-cover.jpg");
+}
+
+#camille-haley-card{
+  background-image: url ("..assets/img/camille-haley.jpeg");
+}
+
 #kaileigh-mccrea-cover {
   background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
 }
